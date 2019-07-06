@@ -1,3 +1,5 @@
+Code and data accompanying manuscript “Climate drives spatial variation in Zika epidemic characteristics in Latin America.”
+
 cov0701.RData contains all climate, epidemiological, and other data used to intialize the spatiotemporal and spatial models
 
 covprov gives the province-level spatial characteristics used to fit the spatial models
